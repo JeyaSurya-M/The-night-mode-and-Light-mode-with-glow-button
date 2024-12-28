@@ -1,0 +1,1 @@
+[Light/Dark] is a beginner-friendly project that showcases my journey in web development. This project includes features like a light/dark mode toggle and emphasizes responsive design with interactive UI elements. It’s built to enhance user experience and demonstrate my skills in HTML, CSS, and JavaScript.
